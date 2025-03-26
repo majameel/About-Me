@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-abdul-jameel-305ax25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-abdul-jameel-305ax25/" height="30" width="40" /></a>
 <a href="https://medium.com/@majameeljameey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@majameeljameey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc9lwzzrsr5cdxr0trp9hjaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc9lwzzrsr5cdxr0trp9hjaa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@MOHDABDULJAMEEL-x7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc9lwzzrsr5cdxr0trp9hjaa" height="30" width="40" /></a>
 <a href="/https://medium.com/@majameeljameey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@majameeljameey" height="30" width="40" /></a>
 </p>
 

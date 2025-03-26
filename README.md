@@ -69,5 +69,7 @@
   
   <!-- Azure DevOps -->
   <img src="https://www.vivantio.com/wp-content/uploads/2024-vivantio-integrations-cover-azure-devops.png" alt="Azure DevOps" width="120" height="80"/>
+
+<img src="https://www.softdebut.com/getmetafile/d82dad4e-da49-4bb4-b44e-4cf9af153a89/Group-1715.aspx?maxsidesize=220" alt="Azure DevOps" width="120" height="80"/>
   
 </p>

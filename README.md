@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Security Research & Automation**
 
-- 📜 Certified in [RHCSA | CEH | GCP Security | CCNA | CASA | CNSP |](https://www.credly.com/users/mohd-abdul-jameel.9c6abaca)
+- 📜 Certified in [RHCSA | CEH | GCP Security | CCNA | CASA | CNSP | CAP |](https://www.credly.com/users/mohd-abdul-jameel.9c6abaca)
 
 - 📝 I regularly write articles on [https://medium.com/@majameeljameey](https://medium.com/@majameeljameey)
 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at Techolution as a **Security Engineer**
 
-- 🌱 I’m currently learning **Cloud & API Secuirty**
+- 🌱 I’m currently learning **Cloud & Devops**
 
 - 👯 I’m looking to collaborate on **Security Research & Automation**
 
